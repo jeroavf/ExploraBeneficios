@@ -78,7 +78,7 @@ plotly==2.0.12
 plotnine==0.5.1
 prometheus-client==0.5.0
 prompt-toolkit==2.0.8
-psutil==5.4.6
+psutil==5.6.6
 ptyprocess==0.6.0
 pyarrow==0.12.0
 pycparser==2.18
