@@ -61,7 +61,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 newrelic==2.90.0.75
 nltk==3.3
-notebook==5.7.4
+notebook==6.4.12
 numpy==1.14.5
 olefile==0.45.1
 opencv-python==4.0.0.21
