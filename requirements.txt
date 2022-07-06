@@ -50,7 +50,7 @@ Kivy==1.9.1
 Kivy-Garden==0.1.4
 kiwisolver==1.0.1
 lockfile==0.12.2
-lxml==3.7.2
+lxml==4.9.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 mistune==0.8.4
