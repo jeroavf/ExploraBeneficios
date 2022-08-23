@@ -57,7 +57,7 @@ mistune==0.8.4
 mizani==0.5.3
 mkl-fft==1.0.0
 mkl-random==1.0.1
-nbconvert==5.4.1
+nbconvert==6.5.1
 nbformat==4.4.0
 newrelic==2.90.0.75
 nltk==3.3
